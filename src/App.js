@@ -50,7 +50,6 @@ function App() {
               </>
             )
           }
-          <h1>hjsdfjhsdfsidufhksklgdloi</h1>
         </div>
       </div>
     </>
