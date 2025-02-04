@@ -44,11 +44,13 @@ function App() {
               <>
                 <Class nclass={nclass} setShowStaff={setShowStaff}  doclass={doclass}/>
                 {
-                  ShowStaff && <Staff Class={nclass} dostaff={dostaff} nstaff={nstaff}></Staff>  
+                  ShowStaff && <Staff Class={nclass} dostaff={dostaff} nstaff={nstaff}></Staff> 
+                 
                 }   
               </>
             )
           }
+          <h1>hjsdfjhsdfsidufhksklgdloi</h1>
         </div>
       </div>
     </>
