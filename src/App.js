@@ -46,7 +46,8 @@ function App() {
                 {
                   ShowStaff && <Staff Class={nclass} dostaff={dostaff} nstaff={nstaff}></Staff> 
                  
-                }   
+                }
+                <h1>koooi</h1>   
               </>
             )
           }
